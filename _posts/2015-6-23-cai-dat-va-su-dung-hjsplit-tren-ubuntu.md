@@ -6,7 +6,7 @@ HJSplit là một công cụ mạnh mẽ dùng để chia nhỏ và gộp file, 
 
 ![](/images/hjsplit.jpg)
 
-#### 1. Cài đặt JRE
+### 1. Cài đặt JRE
 
 ```bash
 $ sudo apt-get update
