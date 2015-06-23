@@ -3,7 +3,6 @@ layout: post
 title: Cài đặt Cocos2d-x trên Windows
 ---
 ### 1. Sơ lược
-
 - Cocos2Dx là 1 Engine hỗ trợ lập trình Game đa nền tảng : Mobile ( IOS, ANDROID, Blackberry, TIZEN, WP) Window, MacOS, HTML5,.. đại loại là đủ cả.
 
 - Ngôn ngữ để Code: Cocos2Dx hỗ trợ chủ yếu 3 ngôn ngữ: C++, Lua, Javascript.
