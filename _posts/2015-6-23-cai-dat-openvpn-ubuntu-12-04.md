@@ -5,7 +5,7 @@ title: Cài đặt và OpenVPN trên Ubuntu 12.04
 OpenVPN là một phần mềm mạng riêng ảo mã nguồn mở dành cho việc tạo các tunnel per-to-per được mã hóa giữa các máy chủ. Phần mềm này do James Yonan viết và được phổ biến dưới giấy phép GNU GPL.
 
 ![](/images/openvpn.png)
-
+<br>
 ### Cài đặt cơ bản
 Trong bài hướng dẫn này, chúng ta sẽ cài đặt OpenVPN trên máy chủ Ubuntu 12.04
 
