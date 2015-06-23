@@ -479,4 +479,4 @@ function insertDataToDb(data)
 ```
 > Quan sát thấy chúng ta không lấy đủ dữ liệu của Like ~7000 vs. 65k
 
-ST [@tpphu](https://github.com/tpphu/)
+Nguồn [@tpphu](https://github.com/tpphu/)
