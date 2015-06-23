@@ -20,7 +20,7 @@ Mình có 1 bài hướng dẫn nhanh để các bạn có thể tạo ngay blog
 ### Bắt đầu cài đặt
 #### Cài đặt Ruby với tùy chỉnh như hình 
 
-![](/images/install-ruby-1.png)
+![](/images/install-ruby-1.PNG)
 
 kiểm tra cài đặt 
 
