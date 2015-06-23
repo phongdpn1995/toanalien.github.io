@@ -206,4 +206,4 @@ gem install wdm
 
 ### Thành quả cuối cùng 
 
-![](/images/jekyll-site.png)
+![](/images/jekyll-site.PNG)
