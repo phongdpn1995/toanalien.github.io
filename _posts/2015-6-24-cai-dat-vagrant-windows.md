@@ -15,6 +15,8 @@ title: Hướng dẫn chi tiết cài đặt, sử dụng Vagrant để tạo m�
 - `box` là một gói hệ điều hành với các thiết lập riêng biệt)
 - Với Vagrant bạn có thể chuyển thiết lập các máy ảo trong máy mình sang một máy tính khác (re-package), hoặc cho phép các thành viên cùng team với bạn truy cập vào thư mục riêng trên máy chủ để sửa/xem file mà họ không cần cài đặt bất cứ cái gì, miễn là dùng chung mạng LAN, thậm chí bạn có thể đưa máy chủ của bạn lên môi trường internet chỉ với vài dòng lệnh đơn giản.
 
+![](/images/logo_vagrant.png)
+
 ### 3. Cài đặt Vagrant
 #### 3.1 Cài đặt VirtualBox
 Khi sử dụng Vagrant bắt buộc bạn phải cài đặt ứng dụng tạo máy chủ ảo như VirtualBox hoặc VMWare. Bạn nên cài VirtualBox vì nó miễn phí :D
