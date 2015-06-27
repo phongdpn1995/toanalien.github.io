@@ -6,10 +6,12 @@ title: Hello world Nodejs on Windows
 ### 1. Cài đặt NodeJS
 - download bộ cài tại [https://nodejs.org/download](https://nodejs.org/download)
 - cài đặt và kiểm tra
+
 ```bash
 C:\ node -v
 v0.12.4
 ```
+
 nếu không hiển thị phiên bản, cần kiểm tra lại biến môi trường
 
 ```text
