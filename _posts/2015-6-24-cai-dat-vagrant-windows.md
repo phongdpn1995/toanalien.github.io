@@ -117,7 +117,9 @@ cd vm1
 - Cài đặt máy ảo
 
 ```bash
-vagrant init trusty64```
+vagrant init trusty64
+```
+
 với trusty64 là tên box
 - thông báo thành công
 
