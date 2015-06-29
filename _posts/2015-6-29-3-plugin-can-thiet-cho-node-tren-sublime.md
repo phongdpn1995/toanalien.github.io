@@ -22,9 +22,9 @@ JsFormat là một JavaScript plugin định dạng sử dụng dòng lệnh đ�
 - `cmd+alt+f` trên OS X
 - `ctrl+alt+f` trên Linux/Windows
 
-### 2. JSHint
+### 2. JSHint Gutter 
 
-[https://github.com/uipoet/sublime-jshint](https://github.com/uipoet/sublime-jshint)
+[https://github.com/victorporof/Sublime-JSHint](hhttps://github.com/victorporof/Sublime-JSHint)
 
 “JSHint is a community-driven tool to detect errors and potential problems in JavaScript code and to enforce your team’s coding conventions. It is very flexible so you can easily adjust it to your particular coding guidelines and the environment you expect your code to execute in. JSHint is open source and will always stay this way.” - JSHint
 
@@ -33,6 +33,39 @@ JsFormat là một JavaScript plugin định dạng sử dụng dòng lệnh đ�
 - `alt+j` trên Linux/Windows
 
 Nếu bạn muốn JSHint run mỗi khi lưu file, bạn cần cài đặt [SublimeOnSaveBuild](https://github.com/alexnj/SublimeOnSaveBuild) package.
+
+- cấu hình JSHint Gutter check code ở chế độ background
+
+```text
+Ctrl + Shift + P > JsHint: Set Plugin Options
+```
+tìm `lint_on_edit` thành
+
+```text
+"lint_on_edit": true,
+```
+- cấu hình JSHint Gutter chạy code node
+
+```text
+Ctrl + Shift + P > JsHint: Set Linting Preferences
+```
+
+thay đổi cấu hình như sau 
+
+```text
+{
+  "esnext": false,
+  "moz": true,
+  "boss": true,
+  "node": true,
+  "validthis": true,
+  "globals": {
+    "EventEmitter": true,
+    "Promise": true
+  }
+}
+```
+![](/images/jshint.png)
 
 ### 3. JavaScriptNext
 
@@ -58,5 +91,4 @@ sau
 - :)
 
 ---
-
 
