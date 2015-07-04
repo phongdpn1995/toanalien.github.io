@@ -3,6 +3,7 @@ layout: post
 title: Chạy Chrome dưới quyền root
 ---
 Just want to add a permanent solution to the problem:
+
 1. Open google-chrome located in `/usr/bin` with 'gedit', 'kate' or your favorite text editor.
 
 ```bash
