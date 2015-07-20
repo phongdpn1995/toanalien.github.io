@@ -17,8 +17,8 @@ Trong bài hướng dẫn này, chúng ta sẽ tìm hiểu cách cài đặt  th
 
 ```bash
 $ sudo apt-get remove --purge node // gở bỏ phiên bản cũ
-$ sudo apt-get install nodejs
-$ sudo apt-get install npm
+$ curl --silent --location https://deb.nodesource.com/setup_0.12 | sudo bash -
+$ sudo apt-get install --yes nodejs
 $ sudo ln -s /usr/bin/nodejs /usr/bin/node // tạo symbolic link
 ```
 
