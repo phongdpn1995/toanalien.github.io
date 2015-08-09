@@ -1,0 +1,301 @@
+[33mcommit 832a188338386cb08776c4e0792534765a2b7980[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sat Aug 8 13:45:41 2015 +0700
+
+    fix resharper nodejs
+
+[33mcommit 985aeec0aef98aebaed1eede6333395288ad64b1[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Aug 4 00:01:05 2015 +0700
+
+    update mockup
+
+[33mcommit baff26491aea9086f4547ca008b9dc493f88dfad[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Mon Aug 3 23:59:57 2015 +0700
+
+    update mockup
+
+[33mcommit dd7550a8118e97ed553f4c3e5af7bc708483aaad[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Mon Aug 3 23:43:15 2015 +0700
+
+    mockup 3
+
+[33mcommit 030a2d94a25395baf1b4dadf9d4fd4e8d8e667ac[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jul 21 01:08:29 2015 +0700
+
+    update nodejs ubuntu
+
+[33mcommit a2c561bbb39583f6e61b12db93dbe7e9796ce29c[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Mon Jul 20 18:20:48 2015 +0700
+
+    add backup.php
+
+[33mcommit 4fee29c21457fdda46b1a866a74508f83db57b4a[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Mon Jul 20 17:32:19 2015 +0700
+
+    change timezone
+
+[33mcommit 6f4952c2edda7b27bedfca40e4c646d8e5cb2292[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Mon Jul 20 11:41:54 2015 +0700
+
+    update upgrade nodejs
+
+[33mcommit da514e8b6ed2abf3a0de60441a3d709429c34451[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Mon Jul 20 11:39:43 2015 +0700
+
+    upgrade nodejs
+
+[33mcommit c74f0bded8d0d43a8d13048309296859cbc55f0c[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Fri Jul 10 00:01:37 2015 +0700
+
+    update meta
+
+[33mcommit 6e0d984605e25d2311fa9a02ec4a05d4b10b1e49[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Wed Jul 8 21:26:34 2015 +0700
+
+    session manager chrome
+
+[33mcommit 6d0e228f8a637bc7052935178ed1bb3d09e06b69[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jul 7 01:37:23 2015 +0700
+
+    Managing child processes
+
+[33mcommit 8b01a619ddb2af0b70a6d09166aa05598c4454fc[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jul 7 01:34:39 2015 +0700
+
+    update eaddrinuse error
+
+[33mcommit 9ff8185530248880e0e9bb99153272b59101e897[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jul 7 01:31:41 2015 +0700
+
+    eaddrinuse error
+
+[33mcommit e7e1363c0bbd14de432ff766450ea4004bac763b[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sat Jul 4 16:59:24 2015 +0700
+
+    update chrome root
+
+[33mcommit 01b962a17f643d6a0784be38d593cf34a0cf5ed6[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sat Jul 4 16:58:23 2015 +0700
+
+    chrome root
+
+[33mcommit 4a18a49af3a4a12b81868347613d0f574e834863[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sat Jul 4 11:01:09 2015 +0700
+
+    pm2 nodejs
+
+[33mcommit 71e6bb6e7adeae450c1d90ac348ed59e956aaa24[m
+Merge: 5e9a388 2fcb64d
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sat Jul 4 10:58:33 2015 +0700
+
+    Merge branch 'master' of github.com:toanalien/toanalien.github.io
+
+[33mcommit 5e9a388f8beba72b4a9909d1617e60269d9b6b80[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Mon Jun 29 12:52:30 2015 +0700
+
+    update 3 plugin essentials for node
+
+[33mcommit 2fcb64d1168a26a7314754ec8692c11befefb9fc[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Mon Jun 29 12:52:30 2015 +0700
+
+    update 3 plugin essentials for node
+
+[33mcommit 62d47351deaab0bb6b0e235f1128adc3847eaece[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Mon Jun 29 10:17:23 2015 +0700
+
+    3 Plugin Development Essentials for Node
+
+[33mcommit 211edc245812e1afe93feb519f63fdd7b350ad9a[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sun Jun 28 13:30:02 2015 +0700
+
+    install nodejs ubuntu
+
+[33mcommit 4c0574c0b005c0d1d3107b0b5b181852c15ab2f2[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sun Jun 28 10:12:16 2015 +0700
+
+    ssh root vagrant ubuntu
+
+[33mcommit f7a1c7ac2f74db5d152af8abb523506e784f1bfa[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sat Jun 27 22:26:58 2015 +0700
+
+    update cai gat vagrant windows
+
+[33mcommit a3a226db7603d7802da14678bc51f4c1ba60afa8[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sat Jun 27 21:50:12 2015 +0700
+
+    nap va xuat module nodejs
+
+[33mcommit 9733a76d3847df58a2ef4bc2a02e00faffc437bc[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sat Jun 27 21:18:00 2015 +0700
+
+    update hello world node
+
+[33mcommit 06c99f95fd24be682c0cf4fb800f5ed03d624320[m
+Merge: bc5c780 769982c
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sat Jun 27 21:16:24 2015 +0700
+
+    Merge branch 'master' of github.com:toanalien/toanalien.github.io
+
+[33mcommit bc5c78015124ebb7a573ccd1ede3e3b77104b0d6[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Sat Jun 27 21:11:28 2015 +0700
+
+    hello world nodejs
+
+[33mcommit 769982cbc1c7746bf8c953bdd2be706f6d37f59b[m
+Author: Thiên Toán <toanalien@gmail.com>
+Date:   Thu Jun 25 23:13:44 2015 +0700
+
+    Create 2015-6-25-lay-danh-sach-file-trong-ubuntu.md
+
+[33mcommit ecfc120139c697ca4eee7a114d062ba3661f7dd8[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Thu Jun 25 10:51:36 2015 +0700
+
+    direct link google drive
+
+[33mcommit 2e9e1498b7471abe2e0de54cc5a74c5ed6b5a822[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Wed Jun 24 23:14:29 2015 +0700
+
+    hien thi cac file an
+
+[33mcommit a304fcc385a689cf561434da5a11e5f76e37d32d[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Wed Jun 24 22:59:09 2015 +0700
+
+    update vagrant windows
+
+[33mcommit e9e57c16c3f02f35531d31a3d1df33a6ac30e29e[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Wed Jun 24 22:56:39 2015 +0700
+
+    vagrant windows
+
+[33mcommit 1c5e641d5d0c34921453b7569dd55c6915682b6d[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Wed Jun 24 20:13:46 2015 +0700
+
+    full screen tightvnc
+
+[33mcommit d7178837857166cddd42387d91a54bda1e6d2918[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Wed Jun 24 19:35:00 2015 +0700
+
+    add cat dat vnc tren ubuntu
+
+[33mcommit 74832b27d6f6017cf8c4ab950effd6d006d18a35[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Wed Jun 24 02:17:15 2015 +0700
+
+    lay danh sach file cmd windows
+
+[33mcommit 3625450a846a7aab0394a33d60c2358e6e4a4ddf[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Wed Jun 24 00:21:49 2015 +0700
+
+    update change mirror server
+
+[33mcommit d5a3a9ab0ecbd0866fc35cb92df34446e08d0761[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 22:53:39 2015 +0700
+
+    update cai dat cocos2dx
+
+[33mcommit 34a67b2d471f1ac19de21a0d78b5b40a2ddbd7e7[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 22:52:12 2015 +0700
+
+    cai dat cocos2dx
+
+[33mcommit 603ecedef63d7a349aed049b9b36eda4af4c2e6b[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 22:24:11 2015 +0700
+
+    update layout
+
+[33mcommit 24e92248b7a79ccd3a551b02465a07f7eec6cf17[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 22:16:08 2015 +0700
+
+    rename favicon
+
+[33mcommit bcf99c0df4ccfdb56309fdab51aee43e0ac08274[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 22:10:51 2015 +0700
+
+    update gioi thieu nodejs
+
+[33mcommit c3ac703c17864e9897304f5f4544c3625b3bec29[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 22:09:21 2015 +0700
+
+    gioi thieu nodejs
+
+[33mcommit 10e2bf19e651d02f3863093955edeb74cfc3820d[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 21:55:30 2015 +0700
+
+    add cai dat openvpn ubuntu
+
+[33mcommit 3cfaf19d73d8a2305b28d56189ae673b4edff781[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 21:31:52 2015 +0700
+
+    update 2015-6-23 hjsplit
+
+[33mcommit 525e502d0c90e10955f8e2c0db62dcb55ef4a279[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 21:30:27 2015 +0700
+
+    cai dat va su dung hjsplit tren ubuntu
+
+[33mcommit f87d61712960f816bf29dbe477bd69b21a341a12[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 20:46:43 2015 +0700
+
+    add favicon
+
+[33mcommit 20d4a0e6ecf20cc9c4a3fab8099159bcc60123f7[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 20:11:41 2015 +0700
+
+    update link images
+
+[33mcommit e0627e468bfbb58ae29b358374e9b4ef40e26938[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 20:10:42 2015 +0700
+
+    update link images
+
+[33mcommit 1bb7f2cfbe500dc6079bea5a4f32e284fad5e00d[m
+Author: Toan Vo <toanalien@gmail.com>
+Date:   Tue Jun 23 20:05:07 2015 +0700
+
+    cai dat jekyll tren windows
