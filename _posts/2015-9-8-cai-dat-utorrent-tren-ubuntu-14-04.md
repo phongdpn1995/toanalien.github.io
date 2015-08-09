@@ -38,7 +38,7 @@ sudo ln -s /opt/utorrent-server-alpha-v3_3/utserver /usr/bin/utserver
 ### Bước 5: Khởi động
 
 ```bash
-utserver -settingspath /opt/utorrent-server-aplha-v3_3/
+utserver -settingspath /opt/utorrent-server-alpha-v3_3/
 ```
 
 **note** nếu bị lỗi `libssl.so`, chạy dòng lệnh
