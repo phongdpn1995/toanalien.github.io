@@ -2,9 +2,6 @@
 layout: post
 title: Fix lỗi install package trong npm trên Vagrant Ubuntu 14.04
 ---
-
-Thông báo lỗi
-
 ```bash
 vagrant@vagrant-ubuntu-trusty-64:/vagrant$ sudo npm install express-generator
 npm ERR! Linux 3.13.0-55-generic
