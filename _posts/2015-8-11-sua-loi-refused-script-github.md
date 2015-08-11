@@ -2,7 +2,7 @@
 layout: post
 title: Sửa lỗi refused file script link từ github
 ---
-![](./images/script-github.png)
+![](/images/script-github.png)
 
 Sau khi deploy ứng dụng của mình lên và có sử dụng một số resource có sẵn trên github (vì mình lười pull về rồi push lên :-p) nên đã xảy ra lỗi như hình.
 
