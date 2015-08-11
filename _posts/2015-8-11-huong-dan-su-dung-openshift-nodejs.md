@@ -2,10 +2,8 @@
 layout: post
 title: Hướng dẫn sử dụng Openshift để deploy ứng dụng NodeJS
 ---
-![](/images/openshift.png)
-
+<center>![](/images/openshift.png)</center>
 ### 1. Giới thiệu OpenShift
-
 OpenShift là một dịch vụ nền tảng điện toán đám mây của hãng Red Hat.
 
 Phần mềm chạy dịch vụ là mã nguồn mở và có sẵn trên GitHub với tên "OpenShift Origin".
