@@ -2,11 +2,7 @@
 layout: post
 title: Sử dụng nhanh GIT
 ---
-
-# Sử dụng nhanh Git
-
 ## 1. Khởi tạo kho (repository)
-
 Ví dụ như bạn có một thư mục chứa website là `~/public_html` và bạn muốn đặt kho Git tại đó. Nếu bạn chưa có nội dung nào trong `~/public_html`, hãy tạo các thư mục và đặt một số nội dung đơn giản trong đó ví dụ như file index.html
 
 
