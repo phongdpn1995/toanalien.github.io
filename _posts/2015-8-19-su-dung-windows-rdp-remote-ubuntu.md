@@ -85,7 +85,7 @@ $ update-rc.d xrdp.sh defaults
 to add
 
 ```bash
-$update-rc.d xrdp.sh remove
+$ update-rc.d xrdp.sh remove
 ```
 to remove
 
