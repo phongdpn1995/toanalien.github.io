@@ -77,5 +77,17 @@ gnome-session –session=Ubuntu-2d
 CTRL+X để lưu và thoát, thực hiện lại bước 8. 
 
 
+**Thêm**: để XRDP tự khởi động ta cần làm như sau
+
+```bash
+$ update-rc.d xrdp.sh defaults
+```
+to add
+
+```bash
+$update-rc.d xrdp.sh remove
+```
+to remove
+
 Vậy là xong, ta đã có thể remote ubuntu = windows rdp :)
 
