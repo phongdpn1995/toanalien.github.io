@@ -101,6 +101,6 @@ $ sudo /etc/init.d/dphys-swapfile stop
 $ sudo /etc/init.d/dphys-swapfile start
 ```
 
-khởi động lại system sau đó dùng lệnh `top`để kiểm tra.
+khởi động lại system sau đó dùng lệnh `top` để kiểm tra.
 
 
