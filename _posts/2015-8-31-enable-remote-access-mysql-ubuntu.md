@@ -30,4 +30,6 @@ FLUSH PRIVILEGES;
 
 *password is root's password*
 
-![](/images/heidisql.png)
+![](/images/heidisql.png)	
+
+bài gốc [https://rbgeek.wordpress.com/2014/09/23/enable-remote-access-of-mysql-on-ubuntu/](https://rbgeek.wordpress.com/2014/09/23/enable-remote-access-of-mysql-on-ubuntu/)
