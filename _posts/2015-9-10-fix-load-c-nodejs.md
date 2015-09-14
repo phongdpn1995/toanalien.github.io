@@ -2,9 +2,6 @@
 layout: post
 title: fix lỗi load c++ nodejs
 ---
-
-### Thông báo lỗi 
-
 ```text
 Failed to load c++ bson extension, using pure JS version
 ```
