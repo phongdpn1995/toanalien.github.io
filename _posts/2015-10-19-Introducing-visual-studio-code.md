@@ -17,16 +17,11 @@ Visual Studio Code is a lightweight, super fast, cross-platform development tool
 5. Refactoring - tons of features that make refactoring easy and fast
 
 Awesome Runner ups ..
-* Task running - I can run gulp and other tasks directly from VSCode
-
-* Autosave
-
-* Go to symbol, file, task, whatever ! - VSCode makes it a keystroke away to find anything you want to do
-
-* Customization - I can customize key bindings, tasks, editor settings - pretty much everything
-
-* Quick Fix - Learn `CMD+.` ... whenyou see a light bulb, VSCode is giving you a hint that you can refactor this, and it will offer suggestions on how ! 
-
-* Multi instance - I can open many instances and toggle between different projects.
+- Task running - I can run gulp and other tasks directly from VSCode
+- Autosave
+- Go to symbol, file, task, whatever ! - VSCode makes it a keystroke away to find anything you want to do
+- Customization - I can customize key bindings, tasks, editor settings - pretty much everything
+- Quick Fix - Learn `CMD+.` ... whenyou see a light bulb, VSCode is giving you a hint that you can refactor this, and it will offer suggestions on how ! 
+- Multi instance - I can open many instances and toggle between different projects.
 
  
