@@ -1,4 +1,7 @@
-# Introducing Visual Studio Code 
+---
+title: Introducing Visual Studio Code 
+layout: post
+---
 
 Microsoft announced the launch of Visual Studio Code, a lightweight cross-platform code editor for writing modern web and cloud applications that will run on OS X, Linux and Windows.
 
