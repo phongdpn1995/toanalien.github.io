@@ -2,7 +2,7 @@
 
 Microsoft announced the launch of Visual Studio Code, a lightweight cross-platform code editor for writing modern web and cloud applications that will run on OS X, Linux and Windows.
 
-You can download it here [http://code.visualstudio.com/](http://code.visualstudio.com/)
+You can download it here [http://code.visualstudio.com](http://code.visualstudio.com)
 
 Visual Studio Code is a lightweight, super fast, cross-platform development tool for building Web application. It works well with both Node and ASP.NET v5.
 
