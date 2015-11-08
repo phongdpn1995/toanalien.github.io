@@ -9,25 +9,25 @@ Tôi bắt đầu sử dụng Jekyll blog để làm blog trên Github. Jekyll c
 
 Với truncate filter, nó sẽ cắt ở giữa trang HTML
 
-```jade
-	{% for post in site.posts limit:10 %}
-		<div class="post-preview">
-			<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-			<div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
-			{% if post.content.size > 2000 %}
-				{{ post.content | truncatewords: 300 }} <!-- bad! content gives you rendered html and you will truncate in the middle of a node -->
-				<a href="{{ post.url }}">read more</a>
-			{% else %}
-				{{ post.content }}
-			{% endif %}
-		</div>
-		<hr>
-	{% endfor %}
+```text
+{% for post in site.posts limit:10 %}
+	<div class="post-preview">
+		<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+		<div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
+		{% if post.content.size > 2000 %}
+			{{ post.content | truncatewords: 300 }} <!-- bad! content gives you rendered html and you will truncate in the middle of a node -->
+			<a href="{{ post.url }}">read more</a>
+		{% else %}
+			{{ post.content }}
+		{% endif %}
+	</div>
+	<hr>
+{% endfor %}
 ```
 
 thay đổi với split filter
 
-```jade
+```text
 {% for post in site.posts limit:10 %}
 	<div class="post-preview">
 		<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
