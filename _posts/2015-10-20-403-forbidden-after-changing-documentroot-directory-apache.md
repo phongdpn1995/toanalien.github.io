@@ -7,6 +7,8 @@ I had the exact same problem and I solved it like this:
 
 First; I followed the steps as explained on the Ubuntu Server Guide Pages
 
+<!--break-->
+
 Go to terminal and copy the default virtual host configuration to a new one 
 
 ```bash
