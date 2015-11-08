@@ -9,7 +9,7 @@ title: Cài đặt Jekyll trên Windows
 Trước hết mình xin giới thiệu về Jekyll. Jekyll là một dạng teamplate chạy trên nền Ruby giúp người dùng có thể biến những văn bản viết bằng ngôn ngữ Markdown thành một blog đơn giản mà không cần sử dụng đến hệ cơ sở dữ liệu hoặc bất kì dòng code phức tạp nào cả.
 
 Mình có 1 bài hướng dẫn nhanh để các bạn có thể tạo ngay blog trên github [tại đây](../viet-blog-tren-github/).
-
+<!--break-->
 ### Chuẩn bị
 
 - Ruby [2.2.2](http://rubyinstaller.org/downloads/)

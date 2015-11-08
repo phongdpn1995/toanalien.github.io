@@ -5,7 +5,7 @@ title: Cài đặt và sử dụng HJSplit trên Ubuntu
 HJSplit là một công cụ mạnh mẽ dùng để chia nhỏ và gộp file, tương thích trên tất cả nền tảng như Windows, Linux, MAC,...
 
 ![](/images/hjsplit.jpg)
-
+<!--break-->
 ### 1. Cài đặt JRE
 
 ```bash

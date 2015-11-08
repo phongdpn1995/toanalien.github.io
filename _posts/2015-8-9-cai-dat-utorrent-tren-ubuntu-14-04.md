@@ -4,7 +4,7 @@ title: Cài đặt uTorrent trên Ubuntu Server 14.04
 ---
 
 ![](/images/utorrent-server.png)
-
+<!--break-->
 ### Bước 1: Download
 Download phiên bản uTorrent Server mới nhất, trong bài viết này là bản [alpha 3.3 x64](http://download-new.utorrent.com/track/beta/endpoint/utserver/os/linux-x64-ubuntu-13-04) bản cho Ubuntu 13.04 chạy được trên 14.04.
 

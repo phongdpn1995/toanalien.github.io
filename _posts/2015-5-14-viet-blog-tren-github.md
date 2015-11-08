@@ -7,7 +7,7 @@ title: Viết blog trên github bằng Jekyll-now
 [Jekyll now](http://github.com/barryclark/jekyll-now) hỗ trợ bạn tạo Jekyll blog một cách nhanh chóng.
 
 ![](/images/snapshot.jpg)
-
+<!--break-->
 
 * Bạn không cần phải sử dụng command line
 

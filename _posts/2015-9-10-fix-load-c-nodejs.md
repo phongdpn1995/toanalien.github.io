@@ -5,7 +5,7 @@ title: fix lỗi load c++ nodejs
 ```text
 Failed to load c++ bson extension, using pure JS version
 ```
-
+<!--break-->
 ### Hướng dẫn fix
 #### Mac OS
 

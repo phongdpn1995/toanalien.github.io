@@ -6,7 +6,7 @@ Mặc định Ubuntu sử dụng mirror US, việc này làm cho việc sử d�
 Để khắc phục hạn chế trên, ta sẽ thay đổi về dùng mirror Việt Nam.
 
 ![](/images/ubuntu15.png)
-
+<!--break-->
 Một số mirror VN hiện có 
 
 ```text

@@ -3,7 +3,7 @@ layout: post
 title: 8 câu chuyện ngắn thâm thúy bài học về cuộc đời
 ---
 Cuộc sống cần các câu chuyện nhỏ để bạn có được kinh nghiệm sống quý báu, hay ít ra nó cũng giúp bạn có thêm chút niềm vui trong những bộn bề này.
-
+<!--break-->
 ### 1. Mark Twain và người phụ nữ kiêu ngạo
 
 Trong một bữa tiệc, Mark Twain ngồi đối diện với một người phụ nữ. Theo lẽ lịch sự, ông nói với người này: " Cô thật là xinh đẹp ! ".

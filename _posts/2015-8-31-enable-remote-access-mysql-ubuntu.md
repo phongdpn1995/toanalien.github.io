@@ -4,7 +4,7 @@ title: Enable remote access of MySql on Ubuntu
 ---
 
 Mặc định MySQL chỉ nghe thông qua localhost, nếu chúng ta muốn bật remote access, chúng ta cần thay đổi file `my.cnf`
-
+<!--break-->
 ```bash
 sudo nano /etc/mysql/my.cnf
 ```

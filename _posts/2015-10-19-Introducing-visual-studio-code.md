@@ -8,7 +8,7 @@ Microsoft announced the launch of Visual Studio Code, a lightweight cross-platfo
 You can download it here [http://code.visualstudio.com](http://code.visualstudio.com)
 
 Visual Studio Code is a lightweight, super fast, cross-platform development tool for building Web application. It works well with both Node and ASP.NET v5.
-
+<!--break-->
 ## Top Features
 1. Fast. It opens fast. I can edit fast. I can debug fast ...
 2. Debugging - awesome, fast and easy debugging of sever side Javascript and C#

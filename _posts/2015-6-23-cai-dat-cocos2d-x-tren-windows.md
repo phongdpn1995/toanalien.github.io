@@ -7,6 +7,7 @@ title: Cài đặt Cocos2d-x trên Windows
 
 - Ngôn ngữ để Code: Cocos2Dx hỗ trợ chủ yếu 3 ngôn ngữ: C++, Lua, Javascript.
 ![](/images/cocos2dx.png)
+<!--break-->
 ### 2. Chuẩn bị
 - Tải về Cocos2dx tại trang chủ [http://www.cocos2d-x.org/download](http://www.cocos2d-x.org/download) (Tải về đúng bản cocos2d-x ko phải bản js).
 

@@ -8,7 +8,7 @@ OpenVPN là một phần mềm mạng riêng ảo mã nguồn mở dành cho vi�
 <br>
 ### Cài đặt cơ bản
 Trong bài hướng dẫn này, chúng ta sẽ cài đặt OpenVPN trên máy chủ Ubuntu 12.04
-
+<!--break-->
 ### Cài đặt OpenVPN
 - Trước hết bạn phải chắc chắn rằng đang truy cập vps dưới quyền `root`
 - Download openvpn package 
