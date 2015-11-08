@@ -41,7 +41,7 @@ thay đổi với split filter
 
 Trong bài viết của bạn, hãy đặt flag `<!--break-->` tại nơi nào bạn muốn cắt
 
-```markdown
+```text
 ---
 layout: post
 title: truncate example
