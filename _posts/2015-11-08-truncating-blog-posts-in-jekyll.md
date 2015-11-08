@@ -1,5 +1,5 @@
 ---
-title: Hướng dẫn cắt post để hiển thị ngoài trang chủ 
+title: Hướng dẫn cắt post để hiển thị ngoài trang chủ Jekyll
 layout: post
 --- 
 
