@@ -5,6 +5,8 @@ layout: post
 
 Tôi bắt đầu sử dụng Jekyll blog để làm blog trên Github. Jekyll chỉ hiệu quả để biến đổi nội dung markdown sang HTML, các bộ lọc cắt ngắn trong [Liquid](https://github.com/Shopify/liquid) cắt đi ở giữa thẻ `<ul>`. Tôi muốn một cách hiển thị khác, cắt trang theo ý muốn, nhưng các cách tôi tìm thấy đều khá phức tạp. Các mà tôi giới thiệu sẽ giúp bạn cắt ngắn bài viết bằng cách thêm đánh dấu (flag) để xác định phần hiển thị.
 
+<!--break-->
+
 Với truncate filter, nó sẽ cắt ở giữa trang HTML
 
 ```jade
@@ -41,7 +43,7 @@ thay đổi với split filter
 
 Trong bài viết của bạn, hãy đặt flag `<!--break-->` tại nơi nào bạn muốn cắt
 
-```text
+```textr
 ---
 layout: post
 title: truncate example
