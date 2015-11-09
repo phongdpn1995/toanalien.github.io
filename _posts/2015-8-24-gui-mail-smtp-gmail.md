@@ -4,6 +4,8 @@ title: Gửi mail smtp gmail
 ---
 ![](/images/gmail.png)
 
+<!--break-->
+
 - Việc gửi mail bằng hàm phpsendmail sẽ trở nên khó khăn khi hosting không hỗ trợ, vì vậy sử dụng smtp gmail hoặc các smtp khác để gửi mail sẽ là giải pháp trong trường hợp này. 
 
 - Mở đăng nhập ứng dụng không an toàn trên gmail (allow less secure apps)
