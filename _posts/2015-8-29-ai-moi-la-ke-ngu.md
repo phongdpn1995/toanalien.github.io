@@ -5,7 +5,7 @@ title: Ai mới là kẻ ngu ?
 
 ![learning to live](/images/learning-to-live.jpg)
 
-<!-- break -->
+<!--break-->
 
 ### 1. AI MỚI LÀ KẺ NGU?
 
