@@ -5,6 +5,7 @@ title: Cài đặt Chrome bằng gói deb
 
 ![](/images/chrome.jpg)
 
+<!--break-->
 
 ```bash
 $ sudo apt-get install -f
