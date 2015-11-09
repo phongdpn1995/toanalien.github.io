@@ -3,7 +3,7 @@ title: Làm gì khi đã chán lập trình ?
 layout: post
 ---
 
-![](images/tired-child-programming.jpg)
+![](/images/tired-child-programming.jpg)
 
 <!--break-->
 
@@ -15,7 +15,7 @@ Hãy tưởng tượng rằng ngọn lửa của bạn vừa tắt. Thay vì c�
 
 ### Hãy đọc cuốn sách Apprenticeship Patterns
 
-![](images/apprenticeship-patterns.jpg)
+![](/images/apprenticeship-patterns.jpg)
 
 Cho phép tôi nhắc lại: bạn không phải là lập trình viên đầu tiên bị mất lửa, cũng không phải là người cuối cùng. Bạn không đơn độc trong trường hợp này. Hàng triệu người khác đã phải đối mặt với chính vấn đề đó và rất nhiều trong số họ đã vượt qua được. Điều tốt nhất bạn có thể làm là hãy học hỏi từ kinh nghiệm của họ.
 	
