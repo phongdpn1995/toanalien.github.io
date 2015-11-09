@@ -5,6 +5,8 @@ title: Ai mới là kẻ ngu ?
 
 ![learning to live](/images/learning-to-live.jpg)
 
+<!-- break -->
+
 ### 1. AI MỚI LÀ KẺ NGU?
 
 Một ông thầy giáo mới dạy nhận ra rằng trong lớp có một cậu bé luôn luôn bị chửi là ngu. Trong giờ ra chơi ông hỏi nhóm bạn lý do.
