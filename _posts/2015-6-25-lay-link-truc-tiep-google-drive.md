@@ -3,7 +3,7 @@ layout: post
 title: Lấy link trực tiếp (direct link) Google Drive
 ---
 
-![](images/google_drive.png)
+![](/images/google_drive.png)
 
 <!--break-->
 

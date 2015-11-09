@@ -3,7 +3,7 @@ layout: post
 title: Nạp và tạo module trong NodeJS
 ---
 
-![](images/nodejs-v8.png)
+![](/images/nodejs-v8.png)
 
 <!--break-->
 
