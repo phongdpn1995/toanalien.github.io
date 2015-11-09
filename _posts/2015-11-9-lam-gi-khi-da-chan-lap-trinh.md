@@ -7,7 +7,10 @@ layout: post
 
 <!--break-->
 
+<br />
 Bạn bị mất niềm đam mê đã từng có trong nghề lập trình? Nó đang ảnh hưởng tới động lực của bạn để có thể hoàn thành công việc? Bạn đang tụt lại phía sau trong tất cả các dự án của mình và cảm thấy khó có thể bắt kịp? Nếu câu trả lời có, thì đây là một tin tốt dành cho bạn: điều này sẽ xảy ra với tất cả mọi người vào lúc này hay lúc khác, vì vậy hãy đừng thất vọng.
+
+<br />
 
 Hãy tưởng tượng rằng ngọn lửa của bạn vừa tắt. Thay vì cảm thấy phiền muộn về việc tại sao nó lại tắt hoặc liệu bạn có thể đã làm điều gì đó khác đi, cách tốt nhất là ngồi xuống và hít một hơi thật sâu. Dù sao ngọn lửa cũng đã tắt. Chỉ có một điều quan trọng duy nhất vào lúc này là quá trình nhóm lại ngọn lửa và kéo nó trở lại với cuộc sống.
 
@@ -18,7 +21,8 @@ Hãy tưởng tượng rằng ngọn lửa của bạn vừa tắt. Thay vì c�
 ![](/images/apprenticeship-patterns.jpg)
 
 Cho phép tôi nhắc lại: bạn không phải là lập trình viên đầu tiên bị mất lửa, cũng không phải là người cuối cùng. Bạn không đơn độc trong trường hợp này. Hàng triệu người khác đã phải đối mặt với chính vấn đề đó và rất nhiều trong số họ đã vượt qua được. Điều tốt nhất bạn có thể làm là hãy học hỏi từ kinh nghiệm của họ.
-	
+<br />
+
 Đó là lý do tại sao tôi đề xuất bạn hãy đọc cuốn sách [Apprenticeship Patterns](http://www.makeuseof.com/tag/9-free-programming-books-will-make-pro/) của 2 tác giả Dave Hoover và Adewale Oshineye. Cuốn sách này, cũng [có sẵn trực tuyến miễn phí](http://chimera.labs.oreilly.com/books/1234000001813/index.html) bằng định dạng HTML, nó chứa đựng đầy ắp những khôn ngoan và lời khuyên cho tất cả các lập trình viên. Nó đưa bạn đi qua các giai đoạn của các chuyên gia lập trình từ newbie đến lúc dày dạn kinh nghiệm và các thách thức chung xuất hiện trên con đường sự nghiệp đó.
 
 Khi việc mất động lực được phân tích kỹ, thì nguyên nhân sâu xa có thể khác nhau tùy từng người. Có phải điều bạn mong đợi từ lập trình khác xa so với thực tế? Bạn sốt ruột muốn giỏi thật nhanh và bị choáng ngợp bởi tất cả? Bạn có cảm thấy như mình đang trì trệ, như thể đang đối mặt với một tảng đá vậy?
