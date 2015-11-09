@@ -46,6 +46,8 @@ Trong khổ đau. Khi bạn cảm thấy thờ ơ và chán nản, điều tồi
 
 Hãy làm rõ về một điều: điều này không liên quan đến việc bạn có "đủ mạnh mẽ" để kéo mình vượt qua được hay không. Trở nên mất động lực không có nghĩa là bạn yếu đuối. Quan trọng là phải giữ cho bạn có một cái nhìn vào thực tế, điều đó sẽ khó để thực hiện nếu bạn không thể nhìn thấy hoàn cảnh của mình từ góc nhìn của các lập trình viên khác.
 
+<br />
+
 ![](/images/chess.jpg)
 
 <br />
