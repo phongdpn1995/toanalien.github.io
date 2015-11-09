@@ -5,6 +5,8 @@ title: Hướng dẫn cài đặt Raspbian OS
 
 - Trong bài này mình sẽ hướng dẫn các bạn cách cài đặt Raspbian OS lên trên thẻ SD để chạy trên Paspberry Pi mainboard. 
 
+<!--break-->
+
 - Đầu tiên chúng ta cần có :
 	- Raspberry Pi mainboard
 	- Nguồn
