@@ -5,6 +5,8 @@ title: Lỗi port 80 khi chạy ứng dụng node
 
 ![](/images/system-http-port-80.png)
 
+<!--break-->
+
 Cách fix:
 
 1. Tải CurrPorts tại [http://www.nirsoft.net/utils/cports.html](http://www.nirsoft.net/utils/cports.html) để xem services nào đang chiếm port sau đó mở tasks manager để kill
