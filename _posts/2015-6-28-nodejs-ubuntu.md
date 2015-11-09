@@ -4,6 +4,8 @@ title: Hướng dẫn cài đặt NodeJS trên Ubuntu 14.04
 ---
 ![](/images/nodejs-ubuntu.png)
 
+<!--break-->
+
 Có rất nhiều cách để cài NodeJS:
 
  + 1: thông qua packages mặc định của Debian/Ubuntu “node” và “npm”.
