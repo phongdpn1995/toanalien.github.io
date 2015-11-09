@@ -2,6 +2,11 @@
 layout: post
 title: Nạp và tạo module trong NodeJS
 ---
+
+![](images/nodejs-v8.png)
+
+<!--break-->
+
 ### 1. Nạp Module
 - Trong NodeJS, module được liên hệ thông qua `file path` hoặc `name`. 
 - Một số module thuộc về phần core được load sẵn khi khởi động node
@@ -71,4 +76,3 @@ console.log(myModule2.pi); // -> 3.141592653589793
 - Bạn có thể load `non-core module` theo đường dẫn và load module trong `node_modules` thông qua tên.
 
 - Bạn có thể tự tạo module thông qua hàm `module.exports`
-
