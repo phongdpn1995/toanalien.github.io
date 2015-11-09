@@ -4,6 +4,8 @@ title: 3 Plugin cần thiết cho Node và JavaScript trên Sublime Text
 ---
 Bài viết giới thiệu 3 plugin tuyệt vời và hết sức cần thiết trên Sublime Text dành cho JavaScript và Node.
 
+<!--break-->
+
 ### 1.JsFormat
 
 [https://github.com/jdc0589/JsFormat](https://github.com/jdc0589/JsFormat)
