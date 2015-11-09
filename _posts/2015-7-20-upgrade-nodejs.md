@@ -3,7 +3,11 @@ layout: post
 title: Upgrade NodeJS via NPM
 ---
 
-I was recently installing a utility via NPM when I learned that my version of Node.js itself was out of date.  No worries -- simply upgrade my Node.js install and move forward.  Of course I could just hit nodejs.org and get the new image, but figured there had to be an easier way.  It turns out there is -- you can upgrade your local Node.js with NPM:
+I was recently installing a utility via NPM when I learned that my version of Node.js itself was out of date.  No worries -- simply upgrade my Node.js install and move forward.  Of course I could just hit nodejs.org and get the new image, but figured there had to be an easier way. 
+
+<!--break-->
+
+It turns out there is -- you can upgrade your local Node.js with NPM:
 
 ```bash
 $ sudo npm cache clean -f
