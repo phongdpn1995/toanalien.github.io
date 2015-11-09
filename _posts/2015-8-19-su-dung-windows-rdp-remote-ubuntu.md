@@ -5,6 +5,8 @@ title: Hướng dẫn sử dụng Windows RDP để remote Ubuntu
 
 Trong khuôn khổ bài viết này, tôi sẽ hướng dẫn các bạn cài đặt xRDP trên Ubuntu để remote bằng Windows RDP thay vì sử dụng các soft khác như vnc, teamviewer.
 
+<!--break-->
+
 #### Yêu Cầu
 
 Bắt buộc port 3389 trên server phải được hỗ trợ và open. 
