@@ -4,6 +4,8 @@ title: Hướng dẫn cấu hình wifi Raspbian bằng commandline
 ---
 Khi mới cài đặt Raspbian thì OS chưa thể kết nối mạng vì ta mới chỉ dùng cáp LAN để kết nối qua laptop, vì vậy ta cần kết nối với mạng để update và cài các gói cần thiết.
 
+<!--break-->
+
 ### 1. Lấy thông tin wifi
 
 Để scan tất cả các mạng hiện tại đang có ta sử dụng câu lẹnh
