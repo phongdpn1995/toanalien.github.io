@@ -6,6 +6,8 @@ title: Installing a lightweight LXDE+VNC desktop environment on your Ubuntu/Debi
 Found some great instructions for putting a lightweight desktop environment on your (Lowend) VPS or server.
 Uses no more then like 40mb RAM tops, but can be tweaked to only 10-20mb I think.
 
+<!--break-->
+
 ```bash
 # Make sure Debian is the latest and greatest
 

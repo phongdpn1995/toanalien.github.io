@@ -5,6 +5,8 @@ title: Hướng dẫn thêm comment facebook vào xenforo
 
 Việc comment bằng facebook sẽ tiện lợi hơn nhiều vì không cần login vào xenforo, và thêm plugin này cũng dễ dàng.
 
+<!--break-->
+
 - Trước hết ta cần tạo 1 app trên facebook tại [https://developers.facebook.com/apps/](https://developers.facebook.com/apps/)
 - Sau đó lấy ID của app có dạng 8976940536xxxxx
 - Mở template `PAGE_CONTAINER` thêm dòng sau trước `</head>`
