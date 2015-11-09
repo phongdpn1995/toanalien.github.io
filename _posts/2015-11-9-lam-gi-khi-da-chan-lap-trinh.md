@@ -43,7 +43,7 @@ Trong rất nhiều trường hợp, việc mất động lực lập trình xu�
 
 Nếu vậy thì bạn phải làm gì? Bạn phải chuyển sang một lĩnh vực khác. Một nửa sự thích thú trong lập trình đến từ việc sáng tạo để giải quyết vấn đề. Nếu không có khía cạnh đó trong công việc của bạn, thì lập trình ít nhiều giống như một công việc vô nghĩa cứ lặp lại từ ngày này qua ngày khác – đặc biệt là nếu bạn xem công việc lập trình hàng ngày trong các dự án của mình là dễ dàng.
 
-![](images/code.jpg)
+![](/images/code.jpg)
 
 Tùy thuộc vào sự linh hoạt của nơi bạn làm việc, hãy hỏi cấp trên xem liệu bạn có thể được chuyển sang một dự án khác. Nếu bạn có khả năng chấp nhận rủi ro, thậm chí bạn có thể thu được nhiều giá trị khi chuyển đổi sang một phương tiện hoặc môi trường khác hoàn toàn (ví dụ: nếu bạn đã viết các phần mềm mang tính học thuật trên Windows, thì có thể là thú vị để thử viết một ứng dụng mạng xã hội trên web).
 
@@ -57,7 +57,7 @@ Việc thiếu động lực có thể là một triệu chứng của một v�
 
 Đối với hoạt động liên quan nhiều đến máy tính như lập trình, có 3 thứ quan trọng cần cân nhắc khi nói đến sức khỏe của bạn. Đầu tiên, bạn cần phải tập thể dục thường xuyên. Nếu bạn eo hẹp về thời gian, thì có thể cố gắng tập thể dục tại bàn của mình trong khi đang làm việc. Thứ hai, bạn phải thực hiện các bước để giảm thiểu sự mệt mỏi do máy tính gây ra. Thứ ba, bạn phải lấy lại [thói quen ngủ](http://vinacode.net/2014/09/17/thuc-day-sang-khoai-buoi-sang/) và [nghỉ ngơi đúng cách](http://vinacode.net/2013/07/20/can-bang-cong-viec-va-cuoc-song/).
 
-![](images/tired.jpg)
+![](/images/tired.jpg)
 
 Tinh thần mệt mỏi cũng có thể phát sinh do một môi trường cố định. Nếu ngày nào bạn cũng nhìn chằm chằm vào bốn bức tường như vậy, nó có thể trở nên đơn điệu. Sự đơn điệu dẫn đến sự nhàm chán. Bạn có thể khắc phục điều này bằng cách thay đổi phong cảnh của mình, cho dù đó có nghĩa là sắp xếp lại đồ nội thất, làm việc ở một vị trí mới, hoặc thậm chí chuyển đổi hình nền máy tính của mình.
 
