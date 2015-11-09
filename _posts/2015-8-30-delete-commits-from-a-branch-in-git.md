@@ -4,7 +4,9 @@ title: Delete commits from a branch in Git
 ---
 
 **Careful:** `git reset --hard` *WILL DELETE YOUR WORKING DIRECTORY CHANGES.* Be sure to **stash any local changes you want to keep** before running this command.
+
 <!--break-->
+
 Assuming you are sitting on that commit, then this command will wack it...
 
 ```bash
