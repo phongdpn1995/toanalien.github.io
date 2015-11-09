@@ -3,6 +3,10 @@ layout: post
 title: Lấy link trực tiếp (direct link) Google Drive
 ---
 
+![](images/google_drive.png)
+
+<!--break-->
+
 - Việc lấy link trực tiếp sẽ giúp bạn thuận lợi hơn trong việc chia sẻ và download file.
 
 ### 1. Lợi ích
@@ -60,4 +64,3 @@ http://googledrive.com/host/0BzvzKqSXOTtafkNvYVFGWmJ1a25yRmR3blB0eUVVYnk3TDdpX0w
  ```text
  http://googledrive.com/host/0BzvzKqSXOTtafkNvYVFGWmJ1a25yRmR3blB0eUVVYnk3TDdpX0wycW4yczE0UXowdmE2MkU/
  ```
-
