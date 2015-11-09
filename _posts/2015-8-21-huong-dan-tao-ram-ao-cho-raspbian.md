@@ -5,6 +5,8 @@ title: Hướng dẫn tạo ram ảo (Swap) cho Raspbian
 
 Đối với dòng máy tính mini Raspberry Pi thì chỉ có 1gb ram, vì vậy để thực thi các ứng dụng đồ họa sẽ gây khó khăn và crash, vì vậy giải pháp tạo ram ảo (swap) bằng usb sẽ giúp trong khó khăn này.
 
+<!--break-->
+
 Trước hết ta  chuẩn bị 1 usb (dung lượng tùy chọn)
 
 
