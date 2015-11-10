@@ -8,39 +8,24 @@ OpenVPN là một phần mềm mạng riêng ảo mã nguồn mở dành cho vi�
 <br>
 ### Cài đặt cơ bản
 Trong bài hướng dẫn này, chúng ta sẽ cài đặt OpenVPN trên máy chủ Ubuntu 12.04
+
 <!--break-->
+
 ### Cài đặt OpenVPN
+
 - Trước hết bạn phải chắc chắn rằng đang truy cập vps dưới quyền `root`
-- Download openvpn package 
-+ bản 64 bit 
 
-```bash
-$ sudo wget http://swupdate.openvpn.org/as/openvpn-as-2.0.7-Ubuntu12.amd_64.deb
+Để bắt đầu quá trình cài đặt bạn chạy lệnh sau:
+
+```
+wget git.io/vpn --no-check-certificate -O openvpn-install.sh; bash openvpn-install.sh
 ```
 
-+ bản 32 bit 
+Sau đó script sẽ tự động cài đặt, cuối cùng bạn sẽ có file `clientname.ovpn` trong thư mục `/root` để kết nối tới server.
 
-```bash
-$ sudo wget http://swupdate.openvpn.org/as/openvpn-as-2.0.7-Ubuntu12.i386.deb
-```
+Để tiếp tục thêm user, bạn chỉ cần sử dụng lệnh bash `openvpn-install.sh`
 
-- cài đặt 
-+ 64 bit 
 
-```bash
-$ dpkg -i openvpn-as-2.0.7-Ubuntu12.amd_64.deb 
-```
-+ 32 bit 
-
-```bash
-$ dpkg -i openvpn-as-2.0.7-Ubuntu12.i386.deb
-```
-
-- Thiết lập password truy cập
-
-```bash
-$ sudo passwd openvpn
-```
 
 - Quản lý và thiết lập OpenVPN
 
