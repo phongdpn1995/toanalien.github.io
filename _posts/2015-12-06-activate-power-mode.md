@@ -7,6 +7,8 @@ title: Hướng dẫn cài đặt package Power Mode trên Atom
 
 <!--break-->
 
+<br>
+
 Nhìn hình trên bạn cảm thấy IDE trông rất ngầu, hãy cài đặt ngay package này bằng cách 
 
 1. Mở Install Packages and Themes `Ctrl + Shift + P` tìm dòng **Setting Views: Install Packages and Themes**
@@ -17,8 +19,7 @@ Nhìn hình trên bạn cảm thấy IDE trông rất ngầu, hãy cài đặt n
 
 *package chỉ hoạt động trên tab hiện tại, nếu mở tab mới phải `Window: Reload` trước.*
 
-
-
+theo dõi phiên bản tiếp theo trên Sublime Text tại [https://www.reddit.com/r/ProgrammerHumor/comments/3uwjxy/activatepowermode/](https://www.reddit.com/r/ProgrammerHumor/comments/3uwjxy/activatepowermode/)
 
 
 
